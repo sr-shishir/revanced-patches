@@ -100,7 +100,7 @@
     <string name="revanced_enable_old_quality_layout_title">Enable old style quality layout</string>
     <string name="revanced_enable_open_links_directly_summary_off">Following default redirect policy</string>
     <string name="revanced_enable_open_links_directly_summary_on">Bypassing URL redirects</string>
-    <string name="revanced_enable_open_links_directly_title">Enable open links directly</string>
+    <string name="revanced_enable_open_links_directly_titles">Enable open links directly</string>
     <string name="revanced_enable_phone_layout_summary">Tricks the dpi to use some phone layouts</string>
     <string name="revanced_enable_phone_layout_title">Enable phone layout</string>
     <string name="revanced_enable_press_to_swipe_summary_off">Press-to-swipe is disabled</string>
